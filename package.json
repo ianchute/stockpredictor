@@ -1,0 +1,17 @@
+{
+  "name": "stockpredictor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian Chu Te",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^2.4.0",
+    "pg": "^6.1.0",
+    "synaptic": "^1.0.8",
+    "underscore": "^1.8.3"
+  }
+}
